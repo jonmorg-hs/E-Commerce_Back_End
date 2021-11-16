@@ -7,7 +7,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](*demo)
+- [Insomnia Demo](*demo)
 - [License](#license)
 
 # Description
@@ -22,9 +22,9 @@ Install nodejs and dependencies (Express.js, Sequelize, mySQL2). The code includ
 
 Insomnia can be used for data transfer.
 
-# Demo
+# Insomnia Demo
 
-[![demo](assets/images/employee_tracker.png)](https://youtu.be/vmBAsBFNjAE)
+[![demo](assets/images/screenshot.png)](https://youtu.be/eHyZuIMMUZ0)
 
 # License
 
