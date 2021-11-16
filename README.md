@@ -22,9 +22,15 @@ Install nodejs and dependencies (Express.js, Sequelize, mySQL2). The code includ
 
 Insomnia can be used for data transfer testing.
 
+# Setup_Demo
+
+Click the image below to view the setup demo video on YouTube.
+
+[![demo](assets/images/setup_screenshot.png)](https://youtu.be/TXkeConC96E)
+
 # Insomnia_Demo
 
-Click the image below to view the demo video on YouTube.
+Click the image below to view the Insomnia demo video on YouTube.
 
 [![demo](assets/images/screenshot.png)](https://youtu.be/eHyZuIMMUZ0)
 
