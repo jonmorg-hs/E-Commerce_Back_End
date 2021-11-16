@@ -7,7 +7,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Insomnia Demo](#insomnia demo)
+- [Insomnia_Demo](#insomnia_demo)
 - [License](#license)
 
 # Description
