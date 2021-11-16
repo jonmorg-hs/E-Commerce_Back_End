@@ -22,7 +22,7 @@ Install nodejs and dependencies (Express.js, Sequelize, mySQL2). The code includ
 
 Insomnia can be used for data transfer.
 
-# Demo
+# Insomnia_Demo
 
 [![demo](assets/images/screenshot.png)](https://youtu.be/eHyZuIMMUZ0)
 
